@@ -35,7 +35,7 @@ Before creating visualizations, you may need to prepare and clean your data. Thi
 #### **Visualization 5: Sales by market&State (*bar chart*)
 1. **Bar chart**: in this we will show sales by market&state by drill down&drill up.
 2. create hierarchy state&market.Drag 'hierarchy' to the y axis and 'sum of sales' in  x axis.
-3. also create tables and sort it.this will  each market &state trends
+3. also create tables and sort it.this will show each market &state trends
 
 
 
