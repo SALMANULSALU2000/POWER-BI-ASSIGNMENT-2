@@ -7,7 +7,7 @@
 2. **Import Data**: Click on `Home` → `Get Data`. Select the data source type (Excel, SQL Server, CSV, etc.) based on your dataset format.
 3. **Load the Dataset**: Once the data is loaded, you’ll see the tables on the right side of the Power BI window under the "Fields" pane.
 
-### **Step 2: Data Preparation (Optional)**
+### **Step 2: Data Preparation**
 Before creating visualizations, you may need to prepare and clean your data. This can be done in Power BI's **Power Query Editor**.
 1. **Remove duplicates**: In the "Transform Data" section, select `Remove Duplicates` to ensure unique rows.
 2. **Handle missing values**: Identify and fill in or remove rows with missing data where necessary.
